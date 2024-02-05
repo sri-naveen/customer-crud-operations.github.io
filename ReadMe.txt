@@ -3,6 +3,8 @@ CRUD Application for CUSTOMER
 Project Description:
 This project showcases a basic CRUD (Create, Read, Update, Delete) application for managing customer data in a database. The application provides a user-friendly interface to interact with the customer table, allowing users to add new customers, retrieve customer information, update details, and delete customer records.
 
+A video of project overview is attached.(ProjectOverview.mp4)
+
 ## Table of Contents:
 - Introduction
 - Features
